@@ -1,5 +1,9 @@
 {
     "emmet.includeLanguages": {
        "javascript": "javascriptreact"
-    }
+   },
+  "editor.fontSize": 16,
+"debug.console.fontSize": 16,
+"terminal.integrated.fontSize": 16,
+"editor.formatOnSave": true
  }
